@@ -1,16 +1,29 @@
-# animation_integeration
+# 🎬 Lottie Vault – Animation Downloading App
 
-A new Flutter project.
+A modern animation browsing and preview application built with **:contentReference[oaicite:1]{index=1}**.
 
-## Getting Started
+This app allows users to explore and preview Lottie animations with a clean and beautiful UI design.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔ Animation preview using Lottie assets  
+✔ Grid based animation library  
+✔ Free and premium animation sections  
+✔ Premium checkout UI screen  
+✔ Blur modal payment sheet  
+✔ Smooth navigation and modern design  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Technologies Used
+
+- :contentReference[oaicite:2]{index=2}  
+- Dart  
+- Lottie Animation Package  
+- Material Design UI  
+
+---
+
+
